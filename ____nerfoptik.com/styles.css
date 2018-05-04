@@ -1,0 +1,48 @@
+
+
+body
+{
+	font-family: 'Roboto', Geneva, sans-serif;
+	font-size: 0.9em;
+	color: #CCC;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background-color: #555;
+}
+
+#mainWrapper
+{
+	max-width: 1200px;
+	width: 100%;
+	margin: auto;
+}
+
+
+h1
+{
+	font-family: 'Roboto', Geneva, sans-serif;
+	font-weight: bold;
+	font-size: 2.5em;
+	color: #EEE;
+	text-transform: uppercase;
+}
+
+h2
+{
+	font-size: 2.2em;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+p
+{
+	text-align: left;
+}
+
+#lecteurPdf
+{
+	width: 90%;
+	margin: auto;
+}
